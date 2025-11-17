@@ -13,10 +13,5 @@ image(stray, 0, 270);
 PImage street = loadImage("street cat.png");
 image(street, 0, -100);
 
-draw();
-
-saveFrame("maki.png");
-saveFrame("stray cat.png");
-saveFrame("street cat.png")
 
  
